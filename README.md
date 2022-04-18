@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Kotlin, Rust, Japanese, Hierogyphics, and Quantum Mechanincs
 - 💞️ I’m looking to collaborate on anything that I find both worthy and interesting
 - 📫 How to reach me:
--    @TheCatalystLoop on socials or
-- @me.TheCatalystLoop.me
+@TheCatalystLoop on socials or
+@me.TheCatalystLoop.me
 - 🔁
 
 <!---
